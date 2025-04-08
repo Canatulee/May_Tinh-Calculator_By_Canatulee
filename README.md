@@ -1,3 +1,1 @@
-THIS IS NOT A VIRUS
-it is just my first c++ program
-(DISCLAIMER:idk how to compile this for the exe to run on every computer so after i figured it out,you need to compile it yourself if the exe dont work)
+Warning:The file has been tampered by virus and its not safe to open it,please wait until i fix it
